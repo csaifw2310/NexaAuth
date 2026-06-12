@@ -1,3 +1,6 @@
+# NexaAuth
+A secure full-stack authentication platform featuring JWT authentication, Email OTP verification, Password Reset, Google OAuth, and protected routes using React, Node.js, Express, and MongoDB.
+
 # Full Stack Authentication System
 
 A modern and secure authentication system built using React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT Authentication, Email OTP Verification, Password Reset Flow, and Google OAuth Login.
